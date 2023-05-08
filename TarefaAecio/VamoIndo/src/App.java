@@ -52,7 +52,7 @@ public class lApp {
             calc.setVal3(sc.nextFloat());
             calc.eq2grau();
         
-            
+            default:
             System.out.println("\nacabemo");
              break;
                 
